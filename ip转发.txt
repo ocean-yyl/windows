@@ -1,0 +1,4 @@
+命令行执行 :
+netsh interface portproxy add v4tov4 listenaddress=172.27.179.103 listenport=10030 connectaddress=192.168.199.130 connectport=22
+
+需要管理员权限。
