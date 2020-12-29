@@ -3,17 +3,49 @@
 【Ctrl＋f】搜索
 【Alt＋F4】 关闭当前活动项目或退出活动程序 
 【Alt＋双击 】显示文件或文件夹属性
-【Alt＋向上方向键 】文件夹返回的上一级目录 
+【Backspace 或 Alt＋向上方向键 】文件夹返回的上一级目录 
 【Shift＋Delete】 无须移动到回收站直接删除选中项目 
 【Shift 或 Ctrl】 选中多个目标
 【Win＋D】 回到桌面老板键，再按还原
-【Win＋E】 打开“计算机” 
+【Win＋E】 打开“计算机”
+【Windows+R】 打开“运行”对话框
+【Windows+L】 锁定计算机或切换用户
+【Windows+M】 最小化所有窗口
+【Windows+T】  循环切换任务栏上的程序
+【Windows+数字1234...】启动任务栏中的由该数字所表示位置处的程序
+【Shift+Windows+数字】启动任务栏中的由该数字所表示位置处的程序的新实例（新窗口）
 【Win＋Tab】计算机程序时间轴
+【Win+方向键】窗口大小转换
 【Win+Shift+S】使用windows截图
-【】
+【运行(msinfo32)】系统信息-环境信息
+【运行(iexpress)】木马捆绑工具
+【运行(control)】控制面版
+【F2】当你选中一个文件的话，这意味着“重命名”
+【windows 或 Ctrl+Esc】 打开开始菜单
+【CTRL+SHIFT+N】 新建一个新的文件夹
+【CTRL+P】 打开“打印”
+【CTRL+S】 保存
+【CTRL + W】关闭当前的窗口
+【ALT+TAB】 切换当前程序 （加SHIFT反向）
+【PRINT SCREEN】将当前屏幕以图像方式拷贝到剪贴板
+【ALT+PRINT SCREEN】将当前活动程序窗口以图像方式拷贝到剪贴板
+【ALT+ENTER】窗口或者全屏幕状态切换
 
 
+f1－帮助
+f2－重命名
+f5－刷新
+alt+f4－关闭窗口
+ctrl+a=全部选中
+查找 CTRL+ F
+复制 CTRL+ C
+剪切 CTRL+ X
+粘贴 CTRL+ V
+删除 DELETE
+撤消 CTRL+ Z
+alt+enter(或ALT+双击鼠标左键)=属性
 
 
 《常用应用程序快捷键》
-【】
+【CTRL+O】 打开“打开文件”对话框（适用于Word）
+在打开word的时候按下shift不放，可以跳过自启动的宏。
